@@ -2,3 +2,4 @@ This is first line.
 New line inserted after deletion.
 This is third line.
 This is fourth line.
+This is fifth line.
